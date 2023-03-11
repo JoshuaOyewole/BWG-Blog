@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW X7 -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.417591in" height="0.333335in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 26 21"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.5in" height="0.333335in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 37 25"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <font id="FontID0" horiz-adv-x="836" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
@@ -19,24 +19,24 @@ viewBox="0 0 26 21"
     @font-face { font-family:"Segoe Script";src:url("#FontID0") format(svg)}
     .fil0 {fill:none}
     .fil1 {fill:#00AFEF}
-    .fnt2 {font-weight:normal;font-size:7.90336px;font-family:'Segoe Script'}
-    .fnt1 {font-weight:normal;font-size:9.05821px;font-family:'Segoe Script'}
-    .fnt0 {font-weight:normal;font-size:16.182px;font-family:'Segoe Script'}
+    .fnt2 {font-weight:normal;font-size:9.46305px;font-family:'Segoe Script'}
+    .fnt1 {font-weight:normal;font-size:10.8458px;font-family:'Segoe Script'}
+    .fnt0 {font-weight:normal;font-size:19.3755px;font-family:'Segoe Script'}
    ]]>
   </style>
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_2765719377360">
-   <rect class="fil0" width="25.9518" height="20.7156"/>
-   <g transform="matrix(1.59629 0 0 1 -331.122 -28.5432)">
-    <text x="209" y="41"  class="fil1 fnt0">B</text>
+  <g id="_2763949639696">
+   <rect class="fil0" width="20.2054" height="14.8037"/>
+   <g transform="matrix(1.91131 0 0 1 -474.708 -34.1761)">
+    <text x="250" y="49"  class="fil1 fnt0">B</text>
    </g>
-   <g transform="matrix(1.59629 0 0 1 -331.412 -20.942)">
-    <text x="209" y="41"  class="fil1 fnt1">W</text>
+   <g transform="matrix(1.91131 0 0 1 -475.124 -25.0748)">
+    <text x="250" y="49"  class="fil1 fnt1">W</text>
    </g>
-   <g transform="matrix(1.21635 0 0 1 -238.337 -22.0746)">
-    <text x="209" y="41"  class="fil1 fnt2">G</text>
+   <g transform="matrix(1.45638 0 0 1 -341.688 -26.4309)">
+    <text x="250" y="49"  class="fil1 fnt2">G</text>
    </g>
   </g>
  </g>
